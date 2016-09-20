@@ -1,0 +1,9 @@
+.crew-member{
+  border: 1px solid gray;
+  padding: 6px;
+  background: lightblue;
+}
+
+.crew-member > span{
+  font-size: 11px;
+}
